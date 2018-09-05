@@ -7,3 +7,29 @@ body {
   min-height: 100%;
   font: 16px / 1 sans-serif;
 }
+
+p {
+  color: red;
+}
+
+h1 {
+  margin: 1em;
+  border: 10px solid green;
+  padding: 20px;
+}
+
+.hobbies {
+  border: 10px solid red;
+}
+
+a {
+  font-size: 1.5em;
+}
+
+a:hover {
+  border: 1px solid orange;
+}
+
+ul {
+  list-style: square;
+}
