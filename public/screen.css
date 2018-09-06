@@ -41,6 +41,14 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  margin: 0;
+  border: 5px solid red;
+  padding: 10px;
+  text-align: center;
+  background-color:blue;
+}
+
 a {
   font-size: 1.5em;
 }
@@ -66,4 +74,20 @@ footer {
 
 .nav-list li {
   display: inline;
+}
+
+#cat-pic img {
+  width: 60%;
+}
+
+#chomp-name h2 {
+  color: lime;
+}
+
+#bart-name h2 {
+  color: pink;
+}
+
+#ember-name {
+  color: turquoise;
 }
